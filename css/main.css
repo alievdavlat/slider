@@ -9,6 +9,7 @@
   height: 100vh;
   background: linear-gradient(45deg, #22046b, #e14e42);
   position: relative;
+  transition: all .5s linear;
 }
 .container-fluid {
   width: 600px;
@@ -26,7 +27,6 @@
 .slider-col {
   width: 600px;
   height: 280px;
-  margin-left: 10px;
 }
 .slider-col h1 {
   color: #fff;
